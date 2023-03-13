@@ -13,7 +13,7 @@
 ![image](</images/1600px-2015_Earthquake_in_Nepal-Pashupatinath_Temple_Area_(12).JPG>)
 credibility of photo: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:2015_Earthquake_in_Nepal-Pashupatinath_Temple_Area_(12).JPG>)
 
-In 2015, a powerful earthquake measuring 7.8 on the Richter scale struck Nepal. Known as the Gorkha earthquake, it caused widespread destruction to buildings and other infrastructure in major cities. The goal of this project is to predict the extent of damage to buildings resulting from this earthquake.
+In 2015, a powerful earthquake measuring 7.8 on the Richter scale struck Nepal known as the Gorkha earthquake, it caused widespread destruction to buildings and other infrastructure in major cities. The goal of this project is to predict the extent of damage to buildings resulting from this earthquake.
 
 ## Datasets
 
