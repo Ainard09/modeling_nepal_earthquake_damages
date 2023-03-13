@@ -4,9 +4,9 @@
 
 1. [Project Motivations](#project-motivations)
 1. [Datasets](#datasets)
-1. Files
-1. Results
-1. Acknowledgment
+1. [Files](#files)
+1. [Results](#results)
+1. [Acknowledgment](#acknowledgement)
 
 ## Project Motivations
 
